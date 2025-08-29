@@ -1,5 +1,0 @@
-id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
-contratos.access_contratos_casa,access_contratos_casa,contratos.model_contratos_casa,base.group_user,1,1,1,1
-contratos.access_tipos_casa,access_tipos_casa,contratos.model_tipos_casa,base.group_user,1,1,1,1
-contratos.access_caracteristicas_casa,access_caracteristicas_casa,contratos.model_caracteristicas_casa,base.group_user,1,1,1,1
-contratos.access_ofertas_casa,access_ofertas_casa,contratos.model_ofertas_casa,base.group_user,1,1,1,1
